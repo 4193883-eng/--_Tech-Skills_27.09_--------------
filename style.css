@@ -1,0 +1,22 @@
+.card{
+    height: 50%;
+    width: 33vw;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 15px;
+    filter: drop-shadow(35px 47px 34px rgba(0, 0, 0, 0.67));
+}
+img{
+    width: 70%;
+    margin: auto;
+    display: block;
+}
+.text{
+    font-family: 'Roboto Mono', monospace;
+    text-transform: lowercase;   
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+    text-transform: lowercase;   
+}
